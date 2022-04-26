@@ -44,3 +44,8 @@ int main()
     
     return 0;
 }
+
+
+// Worst and Average Case Time Complexity: O(n*n). The worst-case occurs when an array is reverse sorted.
+// Best Case Time Complexity: O(n). The best-case occurs when an array is already sorted.
+// Auxiliary Space: O(1)
